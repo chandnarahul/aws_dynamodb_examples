@@ -2,7 +2,7 @@
 
  This is a ant + maven mix style project
 
- That is because the AWS pom was taking too long to download.
+ That is because the AWS pom was taking too long to download!
 
  So
 
