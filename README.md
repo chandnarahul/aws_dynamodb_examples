@@ -10,7 +10,7 @@
 
     Goto : https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SettingUp.html
 
-    Download the dynamodb jar via link
+    Click on the link with below description
 
        Setting Up DynamoDB Local (Downloadable Version)
 
