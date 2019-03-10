@@ -8,9 +8,9 @@
 
  Step 1:
 
-   Goto : https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SettingUp.html
+    Goto : https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SettingUp.html
 
-   Download the dynamodb jar via link
+    Download the dynamodb jar via link
 
        Setting Up DynamoDB Local (Downloadable Version)
 
@@ -22,7 +22,7 @@
 
     run the dynamo db jar using below command
 
-        java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb -inMemory
+    java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb -inMemory
 
  Step 4:
 
